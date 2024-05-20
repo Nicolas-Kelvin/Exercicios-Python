@@ -15,6 +15,6 @@ while cond != 'N':
             maior = n
         if n < menor:
             menor = n
-print('Você digitou foi {} números e a média foi {}'.format(cont, media))
-print('O maior valor foi {} e o menor foi {}'.format(maior, menor))
+print(f'Você digitou foi {cont} números e a média foi {media}!')
+print(f'O maior valor maior foi {maior} e o menor foi {menor}!')
 
