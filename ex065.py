@@ -17,4 +17,4 @@ while cond != 'N':
             menor = n
 print('Você digitou foi {} números e a média foi {}'.format(cont, media))
 print('O maior valor foi {} e o menor foi {}'.format(maior, menor))
-
+print('foram digitados {} números'.format(cont))
